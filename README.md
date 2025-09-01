@@ -53,7 +53,7 @@ git clone [URL_DO_REPOSITORIO]
 git clone [URL_DO_REPOSITORIO]
 
 # Entre no diretório
-cd marcospvc.com.br
+cd marcospvc
 
 # Instale as dependências
 npm install
@@ -163,15 +163,6 @@ colors: {
 - **Code splitting** automático do React
 
 
-## 🔧 Scripts Disponíveis
-
-```bash
-npm run dev          # Servidor de desenvolvimento
-npm run build        # Build para produção
-npm run preview      # Preview do build
-npm run lint         # Verificação de código
-```
-
 
 ## 📱 Compatibilidade
 
@@ -198,9 +189,6 @@ npm run build
 Os arquivos otimizados estarão na pasta `dist/`.
 
 
-## 📞 Suporte
-
-Para dúvidas ou suporte técnico, entre em contato através do site ou WhatsApp do MarcosPVC.
 
 ---
 
